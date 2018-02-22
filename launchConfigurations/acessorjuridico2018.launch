@@ -1,0 +1,17 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.ng.bluemix.net",
+      "Org": "bluemix.pgbs@outlook.com",
+      "Space": "dev"
+    },
+    "Name": "eadpgbs2018",
+    "Instrumentation": {
+      "host": "eadpgbs2018",
+      "domain": "mybluemix.net"
+    }
+  },
+  "Path": "manifest.yml",
+  "Type": "Cloud Foundry"
+}
